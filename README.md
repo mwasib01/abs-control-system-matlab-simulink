@@ -25,26 +25,6 @@ The main objectives are:
 
 ---
 
-# Repository Structure
-
-```
-abs-control-system-matlab-simulink
-
-├── model
-│   └── ABS_25145249_final.slx
-│
-├── scripts
-│   └── ABS_25145249_parameters.m
-│
-├── figures
-│
-└── documentation
-    └── ABS_Modelling_Report.pdf
-```
-
-
----
-
 # ABS Model
 
 The Simulink model includes:
